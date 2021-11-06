@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Umairkhan
-- 👀 I’m interested in Developing Softwares.
-- 🌱 I’m currently learning MERN-Stack React.js Under HasbaSoft Pvt Ltd.
-- 💞️ Worked Upon Several Web-based Major Projects.
+- 👋 HI, This is Umairkhan
+- 👀 Looking To be a MERN-STACK & {'REACT.JS'} DEVELOPER
+- 🌱 TRAINEE OF MERN-STACK DEVELOPMENT Under THE HasbaSoft Pvt Ltd.
+-  HAVING  EXPERIENCE OF SEVERAL WEB-BASED MAJOR PROJECTS.
 
 <!---
 Umairkhan38/Umairkhan38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
