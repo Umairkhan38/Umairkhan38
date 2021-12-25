@@ -1,5 +1,5 @@
 - 👋 HI, This is Umairkhan
-- 👀 Looking To be a MERN-STACK & {'REACT.JS'} DEVELOPER
+- 👀 Looking To be a MERN-STACK & Full Stack DEVELOPER
 - 🌱  INTERN & TEAINEE OF MERN-STACK DEVELOPMENT AT THE HasbaSoft Pvt Ltd.
 -  HAVING  EXPERIENCE OF SEVERAL WEB-BASED MAJOR PROJECTS.
 
