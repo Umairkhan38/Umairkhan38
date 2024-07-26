@@ -1,6 +1,7 @@
 - 👋 HI, This is Umairkhan
-- 👀 Looking To be a MERN-STACK & Full Stack DEVELOPER
-- 🌱  INTERN & TEAINEE OF MERN-STACK DEVELOPMENT AT THE HasbaSoft Pvt Ltd.
+- freelancer web developer  
+- 👀 Looking for a role as the MERN-STACK or Reactjs DEVELOPER
+- 🌱  INTERN & TRAINEE OF MERN-STACK DEVELOPMENT AT HasbaSoft Pvt Ltd.
 -  HAVING  EXPERIENCE OF SEVERAL WEB-BASED MAJOR PROJECTS.
 
 <!---
